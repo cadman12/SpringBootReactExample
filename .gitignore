@@ -1,0 +1,13 @@
+# Spring Boot
+**/target/
+**/oauth2.properties
+
+# React
+**/node_modules/
+**/build/
+**/.env
+
+# General
+.DS_Store
+*.log
+/.metadata/
